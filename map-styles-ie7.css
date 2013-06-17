@@ -1,0 +1,43 @@
+
+
+#map-header
+{
+    color:#fff;
+    padding:10px;
+    background-color:#000040;
+    
+}
+
+#map-alaska-canvas
+{
+    
+    margin-left:-720px;
+    
+}
+
+#map-hawaii-canvas
+{
+    
+    margin-left:-570px;
+    
+}
+
+#map-puerto-canvas
+{
+    visibility: hidden;
+    margin-left:-420px;
+   
+    
+}
+
+#state-floater
+{
+    top:-2.5em;
+    font-size:20px;
+    color:#FFFB82;
+    font-weight:bold;
+    float:right;
+    margin-bottom: -50px;
+    position: relative;
+}
+
